@@ -1,7 +1,7 @@
 {
   "name": "otmorozky",
-  "website": "https://www.example.com",
-  "description": "I operate on some data",
+  "website": "https://t.me/WingsNodeTeam",
+  "description": "https://t.me/WingsNodeTeam",
   "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
-  "twitter": "https://x.com/example"
+  "twitter": "https://x.com/wingsnodeteam"
 }
